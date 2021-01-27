@@ -1,16 +1,14 @@
-### Hi there 👋
+### Oláá! 👋
+ 
+Meu nome é Thaísa Bruna, tenho 28 anos e formada em Engenheria da Computação, pela universidade de Uberaba, em 2018. Atualmente trabalho como Mobile Developer. Sou uma entusiasta pela tecnologia.
 
-<!--
-**thaabrunaa/thaabrunaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 📚 Atualmente estudando Inglês, Kotlin e java.
+ 
+ ❤️ Apaixonada ❤️ :
+ - Flutter
+ - Android Nativo e híbrido.
+ - PHP
+ - Angular
+ - pedalar nas horas vagas.
+ - Aprender
+ - Meu pinscher - Luck Eduardo.
